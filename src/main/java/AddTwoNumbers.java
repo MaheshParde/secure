@@ -6,6 +6,6 @@ public class AddTwoNumbers {
         sum=num1+num2;
         List<Integer> numList=null;
         numList.add(sum);
-        System.out.println("Sum of two numbers:"+numList);
+        System.out.println("Sum of two number:"+numList);
     }
 }
